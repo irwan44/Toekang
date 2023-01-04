@@ -1,0 +1,168 @@
+{
+  "project_info": {
+    "project_number": "755773183987",
+    "project_id": "egrocer-457a9",
+    "storage_bucket": "egrocer-457a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755773183987:android:c58378e92a97276d93e486",
+        "android_client_info": {
+          "package_name": "com.wrteam.egrocer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755773183987-42d5161052q353fslbqssggfstbt0dqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "d017fdab548ee409d33e408bd58ae7e399804520"
+          }
+        },
+        {
+          "client_id": "755773183987-6a28acius0oi0hi1j5ig9i9mu3i1asba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "88857c49f51035b66d3138888cb7e96d032ba8e3"
+          }
+        },
+        {
+          "client_id": "755773183987-6hhsnvqfpftgd9lqjnq8t2gdlovajv93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "11420650d4f8373c6a74cba96c28406d7a54e331"
+          }
+        },
+        {
+          "client_id": "755773183987-86i8b7m0d5cj4ptl28f7ic7ql2j8kqr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "18015e766863d08a08d3784e53891c022b2db9ce"
+          }
+        },
+        {
+          "client_id": "755773183987-d753hpobasc316fhc4ocn4o7eb0dgq24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "0468e9377b7f8b12d03c3464dd3203156b0a8e53"
+          }
+        },
+        {
+          "client_id": "755773183987-gaq28maavvrhg2bsoj7gna9pbh25d9em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "036d6255776f7023b9993f00fa39f52aacb8ebea"
+          }
+        },
+        {
+          "client_id": "755773183987-ia9558hkhuduqjl2pvfrcck6v22k7ga1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "7c69a34d93b7284916830bc1f7047bfab235616c"
+          }
+        },
+        {
+          "client_id": "755773183987-ltkjqdf1dmd4n82c0v10fljk79561lr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "3da79a2d9972848c413200c0ebddd4695642987a"
+          }
+        },
+        {
+          "client_id": "755773183987-m86hla0nmohphdqi07hfmrvnbs9q0acc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "d3ea5a18eb7a83d92ccd5e77f5cd1995745343d0"
+          }
+        },
+        {
+          "client_id": "755773183987-tlq2r53noc4g6nfvdbvnpui83g22uidl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.egrocer",
+            "certificate_hash": "8581961e55f977d9438cff8fbc3f1e08489b093d"
+          }
+        },
+        {
+          "client_id": "755773183987-ekglm6k1p8aesakvpe0eq04vegtf1d8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0dHtM5Qhdlywws5WLW-Wc-fN8K2iSkE"
+        },
+        {
+          "current_key": "AIzaSyA4C6G_mBuS4Mp10pRcb8cHAM1haey11lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755773183987-ekglm6k1p8aesakvpe0eq04vegtf1d8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755773183987-94rmtbdu1krrnb9jlr3mleht9e7gtb3o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wrteam.egrocer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755773183987:android:41f2f290562804ec93e486",
+        "android_client_info": {
+          "package_name": "com.wrteam.egrocer.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755773183987-ekglm6k1p8aesakvpe0eq04vegtf1d8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0dHtM5Qhdlywws5WLW-Wc-fN8K2iSkE"
+        },
+        {
+          "current_key": "AIzaSyA4C6G_mBuS4Mp10pRcb8cHAM1haey11lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755773183987-ekglm6k1p8aesakvpe0eq04vegtf1d8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755773183987-94rmtbdu1krrnb9jlr3mleht9e7gtb3o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wrteam.egrocer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
